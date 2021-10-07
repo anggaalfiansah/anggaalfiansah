@@ -5,6 +5,7 @@
 ## - Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-282A36?style=flat&logo=javascript)&nbsp;
+![React JS](https://img.shields.io/badge/-React_JS-282A36?style=flat&logo=react)&nbsp;
 ![React Native](https://img.shields.io/badge/-React_Native-282A36?style=flat&logo=react)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-282A36?style=flat&logo=express)&nbsp;
 
