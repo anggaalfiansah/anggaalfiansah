@@ -1,7 +1,7 @@
 # Hello Everyone 👋
 <p align='left'>Hi, I'm Angga Alfiansah</p>
 
-# Language
+# Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anggaalfiansah&layout=compact&hide_border=true&bg_color=282A36&icon_color=686868&title_color=57c7ff&text_color=9aedfe)](https://github.com/anggaalfiansah)
 
 # Summary
