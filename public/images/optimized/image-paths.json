@@ -1,0 +1,67 @@
+{
+  "public\\images\\wisuda-5.jpg": {
+    "thumbnail": "/images/optimized//wisuda-5-thumbnail.webp",
+    "medium": "/images/optimized//wisuda-5-medium.webp",
+    "full": "/images/optimized//wisuda-5-full.webp"
+  },
+  "public\\images\\wisuda-4.jpg": {
+    "thumbnail": "/images/optimized//wisuda-4-thumbnail.webp",
+    "medium": "/images/optimized//wisuda-4-medium.webp",
+    "full": "/images/optimized//wisuda-4-full.webp"
+  },
+  "public\\images\\wisuda-3.jpg": {
+    "thumbnail": "/images/optimized//wisuda-3-thumbnail.webp",
+    "medium": "/images/optimized//wisuda-3-medium.webp",
+    "full": "/images/optimized//wisuda-3-full.webp"
+  },
+  "public\\images\\wisuda-1.jpg": {
+    "thumbnail": "/images/optimized//wisuda-1-thumbnail.webp",
+    "medium": "/images/optimized//wisuda-1-medium.webp",
+    "full": "/images/optimized//wisuda-1-full.webp"
+  },
+  "public\\images\\smtp-visit-netand.jpg": {
+    "thumbnail": "/images/optimized//smtp-visit-netand-thumbnail.webp",
+    "medium": "/images/optimized//smtp-visit-netand-medium.webp",
+    "full": "/images/optimized//smtp-visit-netand-full.webp"
+  },
+  "public\\images\\smtp-visit-markany.jpg": {
+    "thumbnail": "/images/optimized//smtp-visit-markany-thumbnail.webp",
+    "medium": "/images/optimized//smtp-visit-markany-medium.webp",
+    "full": "/images/optimized//smtp-visit-markany-full.webp"
+  },
+  "public\\images\\smtp-starfield.jpg": {
+    "thumbnail": "/images/optimized//smtp-starfield-thumbnail.webp",
+    "medium": "/images/optimized//smtp-starfield-medium.webp",
+    "full": "/images/optimized//smtp-starfield-full.webp"
+  },
+  "public\\images\\smtp-learning.jpg": {
+    "thumbnail": "/images/optimized//smtp-learning-thumbnail.webp",
+    "medium": "/images/optimized//smtp-learning-medium.webp",
+    "full": "/images/optimized//smtp-learning-full.webp"
+  },
+  "public\\images\\smtp-kbri.jpg": {
+    "thumbnail": "/images/optimized//smtp-kbri-thumbnail.webp",
+    "medium": "/images/optimized//smtp-kbri-medium.webp",
+    "full": "/images/optimized//smtp-kbri-full.webp"
+  },
+  "public\\images\\smtp-arrival.jpg": {
+    "thumbnail": "/images/optimized//smtp-arrival-thumbnail.webp",
+    "medium": "/images/optimized//smtp-arrival-medium.webp",
+    "full": "/images/optimized//smtp-arrival-full.webp"
+  },
+  "public\\images\\secres-sicepat.jpg": {
+    "thumbnail": "/images/optimized//secres-sicepat-thumbnail.webp",
+    "medium": "/images/optimized//secres-sicepat-medium.webp",
+    "full": "/images/optimized//secres-sicepat-full.webp"
+  },
+  "public\\images\\secres-kbm.jpg": {
+    "thumbnail": "/images/optimized//secres-kbm-thumbnail.webp",
+    "medium": "/images/optimized//secres-kbm-medium.webp",
+    "full": "/images/optimized//secres-kbm-full.webp"
+  },
+  "public\\images\\profile.jpeg": {
+    "thumbnail": "/images/optimized//profile-thumbnail.webp",
+    "medium": "/images/optimized//profile-medium.webp",
+    "full": "/images/optimized//profile-full.webp"
+  }
+}

@@ -1,0 +1,141 @@
+/* ============================================
+   GLOBAL STYLES - RESET & BASE
+   ============================================ */
+
+/* === CSS Reset === */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* === Root & Body === */
+:root {
+  font-family: var(--font-family);
+  line-height: 1.5;
+  font-weight: 400;
+  color-scheme: dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: var(--bg-dark);
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  min-height: 100vh;
+  background: var(--bg-dark);
+  overflow-x: hidden;
+}
+
+#root {
+  width: 100%;
+  min-height: 100vh;
+}
+
+/* === Typography === */
+h1, h2, h3, h4, h5, h6 {
+  line-height: 1.2;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* === Media === */
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* === Form Elements === */
+button {
+  font-family: inherit;
+  cursor: pointer;
+}
+
+/* === Scrollbar === */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--bg-dark);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--color-primary);
+  border-radius: 5px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-primary-hover);
+}
+
+/* === Selection === */
+::selection {
+  background: var(--overlay-selection);
+  color: #fff;
+}
+
+/* ============================================
+   SHARED COMPONENT STYLES
+   ============================================ */
+
+/* === Container === */
+.container {
+  max-width: var(--container-max-width);
+  margin: 0 auto;
+  padding: 0 var(--spacing-xl);
+}
+
+/* === Section Title === */
+.section-title {
+  font-size: var(--font-size-4xl);
+  text-align: center;
+  margin-bottom: var(--spacing-2xl);
+  color: var(--text-primary);
+  position: relative;
+  padding-bottom: var(--spacing-md);
+}
+
+.section-title::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 100px;
+  height: 4px;
+  background: var(--gradient-primary);
+  border-radius: 2px;
+}
+
+/* === Section Subtitle === */
+.section-subtitle {
+  text-align: center;
+  color: var(--text-muted);
+  font-size: var(--font-size-lg);
+  max-width: 600px;
+  margin: calc(var(--spacing-md) * -1) auto var(--spacing-2xl);
+}
+
+/* === App Container === */
+.app {
+  min-height: 100vh;
+  width: 100%;
+  overflow-x: hidden;
+}
+
+main {
+  width: 100%;
+}

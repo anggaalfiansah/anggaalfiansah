@@ -1,0 +1,31 @@
+.language-switcher {
+    display: flex;
+    align-items: center;
+    gap: 0.25rem;
+    background: rgba(59, 130, 246, 0.1);
+    border: 1px solid rgba(59, 130, 246, 0.3);
+    border-radius: 8px;
+    padding: 0.5rem 0.75rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    font-size: 0.875rem;
+    font-weight: 600;
+}
+
+.language-switcher:hover {
+    background: rgba(59, 130, 246, 0.2);
+    border-color: rgba(59, 130, 246, 0.5);
+}
+
+.lang-option {
+    color: #64748b;
+    transition: color 0.3s ease;
+}
+
+.lang-option.active {
+    color: #3b82f6;
+}
+
+.lang-divider {
+    color: #475569;
+}
